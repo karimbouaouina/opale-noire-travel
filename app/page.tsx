@@ -36,7 +36,7 @@ const galleryCollections: GalleryCollection[] = [
     items: [
       {
         src: hotelImagePool.iberostar,
-        title: "Iberostar Diar El Andalous",
+        title: "Chaine Iberostar",
         location: "Sousse",
       },
       {
